@@ -17,4 +17,5 @@ public class Student extends ComputerEngineering{
     public int getMarks() {
         return marks;
     }
+
 }
